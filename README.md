@@ -1,0 +1,1 @@
+El siguiente proyecto fue creado en la clase de desarrollo web integral en la cual creamos 4 archivos de los cuales pertenecen a diferentes ramas, el archivo index y css pertenecen a la rama master, el archivo form pertence a la rama registro y el archivo navbar pertenece a la rama menus
